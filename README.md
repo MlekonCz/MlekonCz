@@ -1,8 +1,8 @@
-👋 Hi, I’m @MlekonCz
-👀 I’m interested in game development.
-🔭 I’m currently working on my game Mecha-Mechanic
-🌱 I’m currently learning more Design Patterns
-📫 Reach me on my email 2007hampl@seznam.cz
+- 👋 Hi, I’m @MlekonCz
+- 👀 I’m interested in game development.
+- 🔭 I’m currently working on my game Mecha-Mechanic
+- 🌱 I’m currently learning more Design Patterns
+- 📫 Reach me on my email 2007hampl@seznam.cz
 
 <!--
 **MlekonCz/MlekonCz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
